@@ -27,6 +27,18 @@ const styles = StyleSheet.create({
   subTitle: {
     fontSize: 16,
     color: '#5c5e62',
+  },
+
+  subTitleCTA: {
+    textTransform: "capitalize",
+    fontSize: 16,
+    textDecorationLine: "underline"
+  },
+
+  buttonContainer: {
+    position: "absolute",
+    bottom: 50,
+    width: '100%',
   }
 });
 
