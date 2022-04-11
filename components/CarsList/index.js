@@ -15,7 +15,7 @@ const CarsList = () => {
         decelerationRate={'fast'}
         snapToInterval={Dimensions.get('window').height}
       />
-    </View>
+    </View >
   )
 }
 
